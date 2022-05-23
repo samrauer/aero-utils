@@ -1,0 +1,25 @@
+{
+  "name": "aero-utils",
+  "version": "0.0.1",
+  "description": "aerospace engineering problem solver and gas dynamics utilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samrauer/aero-utils.git"
+  },
+  "keywords": [
+    "aerospace",
+    "engineering",
+    "gas",
+    "fluid"
+  ],
+  "author": "Sam Auerbach",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samrauer/aero-utils/issues"
+  },
+  "homepage": "https://github.com/samrauer/aero-utils"
+}
